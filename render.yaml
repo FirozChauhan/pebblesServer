@@ -1,0 +1,15 @@
+# Render Blueprint — converts this repo into a Render web service automatically.
+# Import it: Render dashboard → New + → Blueprint → select this repo.
+# It builds FROM the repo's Dockerfile (Chromium bundled), so no Docker image needed.
+services:
+  - type: web
+    name: pebbles-server
+    runtime: docker
+    repo: https://github.com/FirozChauhan/pebblesServer
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /
+    envVars:
+      # Marked as "from secret" so you fill it in on Render — never commit real keys.
+      - key: GROQ_API_KEY
+        sync: false
