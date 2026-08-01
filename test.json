@@ -1,0 +1,101 @@
+{
+  "name": "Shakra Shamim",
+  "title": "Data Analyst",
+  "contact": {
+    "phone": "+91-9919XXXXXX",
+    "email": "shakrashamim09@gmail.com",
+    "linkedin": "linkedin.com/in/shakrashamim"
+  },
+  "summary": "Highly motivated Data Analyst with expertise in SQL, Python, Excel, and Power BI, skilled in data cleaning, analysis, and visualization to drive business growth. Proven track record of delivering data-driven insights in fast-paced environments. Eager to leverage analytical expertise to drive meaningful decisions in a dynamic organization.",
+  "skills": {
+    "Programming & Querying": ["SQL", "Python"],
+    "Data Visualization Tools": ["Advanced MS Excel", "Power BI", "Tableau"],
+    "Analytical Abilities": ["Data Cleaning", "Exploratory Data Analysis (EDA)", "Insight Generation", "Descriptive Statistics"]
+  },
+  "experience": [
+    {
+      "role": "Data Analyst Intern",
+      "company": "Dataview Analytics",
+      "location": "Remote",
+      "start_date": "April 2025",
+      "end_date": "June 2025",
+      "tools_used": ["Excel", "SQL", "Power BI"],
+      "bullets": [
+        "Processed and standardized a dataset of over 1,000 rows from multiple regions to support weekly analytics — enabled business teams to track KPIs across geography and time.",
+        "Designed smart Excel templates embedded with lookup functions and pivot logic, saving 40% reporting time across 4 departments.",
+        "Developed and maintained Power BI dashboards to visualize revenue trends, customer mix, and monthly performance — regularly used by managers and analysts across business units.",
+        "Collaborated with 4 analysts and 2 senior managers to define and validate 6 KPIs, improving report reliability and strategic alignment."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Customer Churn Analysis",
+      "tech_stack": ["Python", "Pandas", "Matplotlib", "Seaborn"],
+      "start_date": "March 2025",
+      "end_date": "April 2025",
+      "bullets": [
+        "Analyzed behavior of 7,043 telecom customers to identify churn patterns based on tenure, contract type, and monthly charges.",
+        "Engineered new features including contract type buckets and tenure bands to improve segmentation and insights.",
+        "Generated 11 visualizations (histograms, box plots, heatmaps) to highlight churn-prone segments.",
+        "Revealed that 38% of churned users were on monthly contracts with less than 3-month tenure — suggested early engagement strategies."
+      ]
+    },
+    {
+      "name": "Sales Dashboard for Regional Performance",
+      "tech_stack": ["SQL", "Power BI"],
+      "start_date": "February 2025",
+      "end_date": "March 2025",
+      "bullets": [
+        "Queried and joined 3 sales-related tables covering over 25,000 rows across 12 months and 5 regions using optimized SQL joins to create consistent, analysis-ready datasets.",
+        "Built 10 dynamic measures and KPIs in Power BI to track regional sales, return trends, and product performance.",
+        "Designed multipage dashboards with slicers and filters, helping stakeholders drill down by region, product category, and time.",
+        "Detected a 14% sales drop post-festival in the South region. Later, the insight was used for a marketing recovery plan."
+      ]
+    }
+  ],
+  "awards_certifications": [
+    {
+      "title": "Google Data Analytics Certificate",
+      "issuer_or_context": "Coursera",
+      "year": "2024",
+      "description": "Completed 8 practical case studies involving SQL, data cleaning, dashboards, and presentations."
+    },
+    {
+      "title": "Top 5% in SQL Hackerrank Challenge",
+      "issuer_or_context": "Hackerrank",
+      "year": "2024",
+      "description": "Ranked among top 150 out of more than 3,000 participants for advanced SQL problem-solving."
+    },
+    {
+      "title": "Best Final Year Project",
+      "issuer_or_context": "Marwari College",
+      "year": "2025",
+      "description": "Built a Power BI dashboard analyzing academic performance across 6 departments over 3 years."
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. Information Technology",
+      "institution": "Marwari College, Ranchi",
+      "graduation_year": "2025",
+      "score": "CGPA: 8.2 / 10"
+    }
+  ],
+  "ats_keywords_matched": [
+    "Data Analyst",
+    "SQL",
+    "Python",
+    "Excel",
+    "Power BI",
+    "Data Visualization",
+    "Data Cleaning",
+    "Exploratory Data Analysis"
+  ],
+  "gap_analysis": [
+    "Machine Learning",
+    "Cloud Computing",
+    "NoSQL Databases",
+    "Big Data Analytics"
+  ]
+}
